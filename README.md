@@ -2,7 +2,9 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.26196-b31b1b.svg)](https://arxiv.org/abs/2607.26196) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Rad--Jepa--3D-yellow.svg)](https://huggingface.co/huyquoctrinh/Rad-Jepa-3D) 
 
-Quoc-Huy Trinh, Minh-Van Nguyen, Ulas Bagci
+Official repository for paper: **Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography**
+
+Authors: Quoc-Huy Trinh, Minh-Van Nguyen, and Ulas Bagci
 
 ## Architecture
 
