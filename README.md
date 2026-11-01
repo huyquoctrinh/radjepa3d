@@ -102,10 +102,10 @@ answer = model.generate(volume, "What organ is shown in this CT scan?")
 ## Citation
 
 ```bibtex
-@article{trinh2025radjepa3d,
+@article{trinh2026rad,
   title={Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography},
   author={Trinh, Quoc-Huy and Nguyen, Minh-Van and Bagci, Ulas},
   journal={arXiv preprint arXiv:2607.26196},
-  year={2025}
+  year={2026}
 }
 ```
